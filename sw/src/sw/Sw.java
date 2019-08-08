@@ -17,8 +17,7 @@ public class Sw {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("la cucha de nicolas");
-        System.out.println("hoool");
+        
         
     }
     
